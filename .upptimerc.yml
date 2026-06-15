@@ -15,10 +15,32 @@ status-website:
   cname: status.glacier.fyi
   logoUrl: https://glacier.fyi/logo.png
   name: Glacier
+  theme: night
+  customCss: |
+    :root {
+      --nav-background-color: #0a0a0f;
+      --nav-border-bottom-color: #1a1a2e;
+      --nav-current-border-bottom-color: #38bdf8;
+      --card-background-color: #111118;
+      --card-border-color: #1e1e2e;
+      --body-background-color: #07070a;
+      --body-text-color: #e4e4e7;
+      --up-border-left-color: #22c55e;
+      --down-border-left-color: #ef4444;
+      --degraded-border-left-color: #f59e0b;
+      --tag-up-background-color: #22c55e;
+      --tag-down-background-color: #ef4444;
+      --tag-degraded-background-color: #f59e0b;
+      --tag-color: #000000;
+      --change-background-color: #3b82f6;
+      --graph-opacity: 1;
+      --graph-filter: none;
+    }
   introTitle: "Glacier Status"
-  introMessage: Uptime monitor for Glacier.
+  introMessage: Uptime monitor for Glacier services.
   navbar:
     - title: Status
       href: /
     - title: Home
       href: https://glacier.fyi
+
