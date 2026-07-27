@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/glacier.fyi.ico",
     "slug": "main-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 783,
-    "timeDay": 9950,
-    "timeWeek": 2780,
-    "timeMonth": 992,
-    "timeYear": 783,
+    "uptime": "99.36%",
+    "uptimeDay": "73.34%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.36%",
+    "time": 767,
+    "timeDay": 9876,
+    "timeWeek": 2732,
+    "timeMonth": 984,
+    "timeYear": 767,
     "dailyMinutesDown": {
-      "2026-07-26": 1
+      "2026-07-27": 142,
+      "2026-07-26": 242
     }
   },
   {
@@ -25,16 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/glacier.fyi.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 604,
-    "timeDay": 9852,
-    "timeWeek": 2556,
-    "timeMonth": 799,
-    "timeYear": 604,
-    "dailyMinutesDown": {}
+    "uptime": "99.36%",
+    "uptimeDay": "73.42%",
+    "uptimeWeek": "96.20%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.36%",
+    "time": 591,
+    "timeDay": 9778,
+    "timeWeek": 2547,
+    "timeMonth": 794,
+    "timeYear": 591,
+    "dailyMinutesDown": {
+      "2026-07-27": 142,
+      "2026-07-26": 240
+    }
   }
 ]
