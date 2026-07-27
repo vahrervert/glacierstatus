@@ -1,7 +1,7 @@
 url: https://glacier.fyi/api/health
-status: down
-code: 403
-responseTime: 23
-lastUpdated: 2026-07-27T00:02:39.302Z
+status: up
+code: 200
+responseTime: 164
+lastUpdated: 2026-07-27T04:48:53.397Z
 startTime: 2026-06-15T15:44:39.524Z
 generator: Upptime <https://github.com/upptime/upptime>
